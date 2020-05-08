@@ -1,0 +1,17 @@
+html {
+    text-align: center;
+    padding: 5px;
+}
+
+input {
+    margin: 5px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 2px 30px 2px 30px;
+}
+
+button:hover {
+    background-color: green;
+}
